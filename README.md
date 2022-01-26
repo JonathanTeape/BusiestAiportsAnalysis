@@ -12,7 +12,7 @@ https://www.kaggle.com/khaiid/most-crowded-airports
 
 ![Most Busiest Years Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Most%20Busiest%20Years%20Graph.png)
 
-![Most Crowded Aiport Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Most%20Crowded%20Aiport%20Graph.png
+![Most Crowded Aiport Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Most%20Crowded%20Aiport%20Graph.png)
 
-![Most Crowded Aiport Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Top%205%20Busiest%20Aiports%20Piechart.png)
+![Top 5 Busiest Aiports Piechart](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Top%205%20Busiest%20Aiports%20Piechart.png)
 

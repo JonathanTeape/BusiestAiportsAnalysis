@@ -9,4 +9,4 @@ Exploratory data analysis was conudcted using pandas and matplotlib. After condu
 https://www.kaggle.com/khaiid/most-crowded-airports
 
 
-![Most Busiest Years Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Most%20Crowded%20Aiport%20Graph.png
+![Most Busiest Years Graph](https://github.com/JonathanTeape/BusiestAiportsAnalysis/blob/main/Most%20Crowded%20Aiport%20Graph.png)
